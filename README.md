@@ -10,10 +10,13 @@ This is the code using DeepLab to segment plumage area of bird images and compar
 - numpy >= 1.17.3
 - pandas >= 0.23.4
 - opencv-python = 4.1.1.26
-- scikit-imgae = TODO
+- scikit-imgae = 0.16.2
 
 - R = 4.1.0
-- TODO r packages
+- raster = 3.4-5
+- pavo = 2.6.1
+- phangorn = 2.5.5
+- MCMCglmm = 2.32
 
 ## Installation
 
