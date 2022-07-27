@@ -1,6 +1,6 @@
 # DL_seg_avian_plumage
 
-This is the repo for the analysis code in **Segmenting biological specimens from photos to understand the evolution of UV plumage in passerine birds** (He et. al. 2022).
+This is the repo for the analysis code in **Deep learning image segmentation reveals patterns of UV reflectance evolution in passerine birds** (He et. al. 2022).
 
 This is the code using DeepLab to segment plumage area of bird images and compare the performance to some classic segmentation methods (thresholding, region growing, graph cut and chan-vese). The model is applied on a dataset of passerine birds. The segmentation results are then used to measure the UV reflectance which is used to analyse the evolution of UV in passerine birds.
 
